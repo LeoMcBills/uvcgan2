@@ -1,4 +1,4 @@
-# UVCGAN v2: An Improved Cycle-Consistent GAN for Unpaired Image-to-Image Translation
+# UVCGAN v2: An Improved Cycle-Consistent GAN for Unpaired Image-to-Image Translatio
 
 <p align="center">
   <img src="https://github.com/LS4GAN/gallery/blob/main/uvcgan2/animations/male2female_v2.webp" width="95%" title="male to female translation with CelebA-HQ">
